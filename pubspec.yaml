@@ -1,0 +1,11 @@
+name: tonal
+description: Dart port of Tonaljs
+
+version: 2.2.2+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  node_shims: ^0.2.1
+  test: ^1.15.3
